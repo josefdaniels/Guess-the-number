@@ -3,7 +3,7 @@ A guessing game project designed to practice programming logic
 
 This program is a number guessing game where the player tries to guess a randomly chosen number. The algorithm determines whether the guess is correct or not.
 
-![Initial Screen](/storage/emulated/0/assets/Screenshot_20260704-172614.jpg)
+![Initial Screen](assets/Screenshot_20260704-172614.jpg)
 
 ## Features
 
