@@ -17,7 +17,7 @@ This program is a number guessing game where the player tries to guess a randoml
 ## Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## How to Play
 
