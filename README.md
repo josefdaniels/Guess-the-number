@@ -11,7 +11,7 @@ As the player guesses correctly, they earn points and receive additional attempt
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f5mr0KupNG7gbnngn4/giphy.gif" alt="Guess the Number Preview" width="700">
+  <img src="https://media.giphy.com/media/TGklpIT8cupWYTLxe3/giphy.gif" alt="Guess the Number Gameplay" width="700">
 </p>
 
 ## ✨ Features
