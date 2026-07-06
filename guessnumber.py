@@ -19,9 +19,9 @@ def menu():
 
 def difficulty():
     print("\nDifficulties:")
-    print("1 - Easy")
-    print("2 - Medium")
-    print("3 - Hard")
+    print("1 - Easy(5 chances / 1-10)")
+    print("2 - Medium(10 chances / 1-30 number)")
+    print("3 - Hard(20 chances / 1-60)")
 
     while True:
         option = input("\nSelect difficulty: ")
