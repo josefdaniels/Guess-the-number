@@ -10,7 +10,9 @@ As the player guesses correctly, they earn points and receive additional attempt
 
 ## 📸 Preview
 
-![Initial Screen](https://giphy.com/gifs/f5mr0KupNG7gbnngn4)
+<p align="center">
+  <img src="https://media.giphy.com/media/f5mr0KupNG7gbnngn4/giphy.gif" alt="Guess the Number Preview" width="700">
+</p>
 
 ## ✨ Features
 
