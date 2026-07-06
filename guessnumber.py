@@ -89,8 +89,8 @@ while True:
             print("\nYou've used all your attempts!")
             break
 
-        input("\nPress Enter to continue...")
+        input("\nPress Enter to continue")
 
     except ValueError:
-        print("\nEnter numbers only!")
-        input("\nPress Enter to continue...")
+        print("\nEnter numbers only")
+        input("\nPress Enter to continue")
