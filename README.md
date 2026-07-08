@@ -30,7 +30,7 @@ A simple yet addictive command-line number guessing game written in Python.
 3. Run the game:
 
 ```bash
-python guess_number.py
+python guessnumber.py
 ```
 ## How to Play
 - Start the game from the main menu
@@ -47,7 +47,7 @@ Hard — 1 attempt  | Numbers 1 to 100
 ## Project Structure
 ```
 .
-├── guess_number.py     # Main game file
+├── guessnumber.py     # Main game file
 └── README.md
 ```
 ## Code Overview
