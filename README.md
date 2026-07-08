@@ -1,73 +1,45 @@
-# 🎯 Guess the Number
+# Guess The Number
 
-A simple terminal-based number guessing game built with Python to practice programming logic, functions, loops, conditionals, and user input handling.
+A simple yet addictive command-line number guessing game written in Python.
 
-## 📖 About
+---
 
-In this game, the computer randomly selects a number, and the player must guess it before running out of attempts. After each guess, the game provides a hint indicating whether the secret number is higher or lower.
+## About
 
-As the player guesses correctly, they earn points and receive additional attempts, making the game progressively more challenging and rewarding.
+**Guess The Number** is a classic terminal game where the player must guess a randomly generated secret number within a limited number of attempts. The game features multiple difficulty levels, a scoring system, and bonus attempts for correct guesses.
 
-## 📸 Preview
+## Features
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TGklpIT8cupWYTLxe3/giphy.gif" alt="Guess the Number Gameplay" width="700">
-</p>
+- Clean and intuitive terminal interface
+- Cross-platform screen clearing (Windows, Linux, macOS)
+- Three difficulty levels with different ranges and starting attempts
+- Persistent score across multiple rounds
+- Bonus attempts on successful guesses
+- Input validation and friendly error messages
+- Simple navigation menu
 
-## ✨ Features
+## Requirements
 
-- 🏠 Home menu
-- 🎮 Difficulty selection (Easy, Medium and Hard)
-- 🎲 Random number generation
-- ❤️ Limited attempts system
-- ⭐ Progressive scoring
-- 💡 Higher/Lower hints
-- 🔄 Play again option
-- 🧹 Automatic terminal screen clearing
-- ⚠️ Invalid input handling
+- Python 3.6 or higher
+- No external libraries required
 
-## 🛠️ Technologies
+## How to Run
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 🚀 Getting Started
-
-### Clone the repository
+1. Clone or download the project
+2. Navigate to the project folder
+3. Run the game:
 
 ```bash
-git clone https://github.com/josefdaniels/Guess-the-number.git
+python guess_number.py
 ```
-
-### Enter the project folder
-
-```bash
-cd Guess-the-number
+## How to Play
+- Start the game from the main menu
+- Choose your difficulty:
+``` Easy — 5 attempts | Numbers 1 to 10
+Medium — 3 attempts | Numbers 1 to 50
+Hard — 1 attempt  | Numbers 1 to 100
 ```
+- Enter your guesses when prompted
+- After a correct guess you receive +1 point and +3 extra attempts
+- The game continues until you run out of attempts
 
-### Run the game
-
-```bash
-python main.py
-```
-
-> Replace `main.py` with the actual filename if your game uses a different name.
-
-## 🎮 How to Play
-
-1. Start the game from the main menu.
-2. Choose a difficulty level.
-3. Enter your guesses.
-4. Follow the hints ("Too high" or "Too low").
-5. Score points by guessing correctly.
-6. Keep playing until you run out of attempts.
-
-## 📚 What I Learned
-
-This project helped me practice:
-
-- Python functions
-- Conditional statements
-- Loops
-- Error handling (`try` / `except`)
-- Random number generation
-- Code organization and refactoring
