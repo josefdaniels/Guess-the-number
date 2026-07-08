@@ -46,9 +46,9 @@ Hard — 1 attempt  | Numbers 1 to 100
 
 ## Project Structure
 ```
-.
-├── guessnumber.py     # Main game file
-└── README.md
+Guess-the-number
+├── README.md     # Main game file
+└── guessnumber.py
 ```
 ## Code Overview
 - clear_screen(): Clears the terminal screen
