@@ -35,7 +35,8 @@ python guess_number.py
 ## How to Play
 - Start the game from the main menu
 - Choose your difficulty:
-``` Easy — 5 attempts | Numbers 1 to 10
+```
+Easy — 5 attempts | Numbers 1 to 10
 Medium — 3 attempts | Numbers 1 to 50
 Hard — 1 attempt  | Numbers 1 to 100
 ```
@@ -43,3 +44,7 @@ Hard — 1 attempt  | Numbers 1 to 100
 - After a correct guess you receive +1 point and +3 extra attempts
 - The game continues until you run out of attempts
 
+## Project Structure
+.
+├── guess_number.py     # Main game file
+└── README.md
