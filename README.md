@@ -45,6 +45,14 @@ Hard — 1 attempt  | Numbers 1 to 100
 - The game continues until you run out of attempts
 
 ## Project Structure
+```
 .
 ├── guess_number.py     # Main game file
 └── README.md
+```
+## Code Overview
+- clear_screen(): Clears the terminal screen
+- menu(): Displays main menu and returns user choice
+- difficulty(): Handles difficulty selection and secret number generation
+- Main game loop: Processes guesses, updates score and attempts
+
