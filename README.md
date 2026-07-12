@@ -47,7 +47,7 @@ Hard — 1 attempt  | Numbers 1 to 100
 ## Project Structure
 ```
 Guess-the-number
-├── README.md     # Main game file
+├── README.md     
 └── guessnumber.py
 ```
 ## Code Overview
